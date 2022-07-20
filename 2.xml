@@ -1,0 +1,263 @@
+<!--PureCampaign sign-up page parser. No email or mobile data received for preload--><RSS VERSION="2.0" XMLNS:CONTENT="http://purl.org/rss/1.0/modules/content/" XMLNS:MEDIA="http://search.yahoo.com/mrss/" XMLNS:DC="http://purl.org/dc/elements/1.1/" XMLNS:ITUNES="http://www.itunes.com/dtds/podcast-1.0.dtd" >
+<CHANNEL>
+<TITLE>Scientific American</TITLE> 
+<LINK>http://www.scientificamerican.com</LINK>
+<DESCRIPTION>Science news and technology updates from Scientific American</DESCRIPTION> 
+<IMAGE><URL>https://static.scientificamerican.com/sciam/assets/Image/newsletter/salogo.png</URL><TITLE>Scientific American</TITLE><LINK>http://www.scientificamerican.com</LINK></IMAGE> 
+<PUBDATE>Wed, 20 Jul 2022 17:12:10 GMT</PUBDATE> 
+<LANGUAGE>en-us</LANGUAGE>
+<COPYRIGHT>Scientific American, a Division of Springer Nature America, Inc.</COPYRIGHT>
+<ITUNES:AUTHOR>Scientific American</ITUNES:AUTHOR>
+<ITEM>
+<TITLE>These Dinosaurs Had a Complicated Air Conditioner in Their Skull</TITLE>
+<LINK>https://www.scientificamerican.com/video/these-dinosaurs-had-a-complicated-air-conditioner-in-their-skull/</LINK>
+<GUID ISPERMALINK="false" >FD6AC625-686A-48AB-A663A81C30DD2DAC</GUID>
+<PUBDATE>Wed, 20 Jul 2022 17:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Cooling 5,000-pound, armor-plated giants was no small feat.&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/C37E3BBB-3409-41E7-ABB3E812712BB983_source.jpg" FILESIZE="1127646" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A computer-generated view of the ankylosaur Euoplocephalus.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>WitmerLab at Ohio University</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Aaron Martin</DC:CREATOR><CATEGORY>Biology</CATEGORY><CATEGORY>Dinosaurs</CATEGORY></ITEM>
+<ITEM>
+<TITLE>U.K. Shatters Heat Record Three Times in a Matter of Hours</TITLE>
+<LINK>https://www.scientificamerican.com/article/u-k-shatters-heat-record-three-times-in-a-matter-of-hours/</LINK>
+<GUID ISPERMALINK="false" >C885510B-6373-4669-835C24B7D8EC1D27</GUID>
+<PUBDATE>Wed, 20 Jul 2022 16:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Extreme heat events such as the record-setting conditions in Europe are growing more frequent and more intense as the climate warms&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/F15F4F6A-351D-43D0-8C2C9338ED7B0329_source.jpg" FILESIZE="5353210" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A Union Flag flies amongst the smouldering ruins of houses as fire services tackle a large blaze on July 19, 2022 in Wennington, England. A series of grass fires broke out around the British capital amid an intense heatwave.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Leon Neal/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Chelsea Harvey, E&amp;E News</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Why is Monkeypox Evolving So Fast?</TITLE>
+<LINK>https://www.scientificamerican.com/article/why-is-monkeypox-evolving-so-fast/</LINK>
+<GUID ISPERMALINK="false" >233A52B2-E7D3-43FD-B6371900928A8CC1</GUID>
+<PUBDATE>Wed, 20 Jul 2022 15:20:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;The virus circulating in the current outbreak has mutated 50 times in the past four years&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/AC2F3C57-802A-46B8-A188F691EE0CA753_source.jpg" FILESIZE="2127889" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >Monkeypox virus particle.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Kateryna Kon/Science Photo Library/ Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Sara Reardon</DC:CREATOR><CATEGORY>Biology</CATEGORY><CATEGORY>Genetics</CATEGORY><CATEGORY>Health</CATEGORY><CATEGORY>Epidemiology</CATEGORY></ITEM>
+<ITEM>
+<TITLE>New Evidence Emerges in Mystery of When Mammals Became Warm-Blooded</TITLE>
+<LINK>https://www.scientificamerican.com/article/new-evidence-emerges-in-mystery-of-when-mammals-became-warm-blooded/</LINK>
+<GUID ISPERMALINK="false" >A9DD768B-8DF7-4006-96C66701C76045B1</GUID>
+<PUBDATE>Wed, 20 Jul 2022 15:05:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Fossil animals&amp;rsquo; inner ear structures offer clues on when endothermy, or warm-bloodedness, evolved&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/51AAD737-F81F-42A1-BC56FC140F6BC9CC_source.png" FILESIZE="4221187" TYPE="image/png" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A mammaliamorph breathing out hot hair in a frigid night, hinting at endothermy (warm-bloodedness).</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Luzia Soares</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Riley Black</DC:CREATOR><CATEGORY>Biology</CATEGORY><CATEGORY>Animals</CATEGORY><CATEGORY>Evolution</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Risk of Dangerous Heat Exposure Is Growing Quickly in Cities</TITLE>
+<LINK>https://www.scientificamerican.com/article/risk-of-dangerous-heat-exposure-is-growing-quickly-in-cities/</LINK>
+<GUID ISPERMALINK="false" >CC08CDD9-DAF3-49A0-AF204BFC2C519129</GUID>
+<PUBDATE>Wed, 20 Jul 2022 14:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Population growth, climate change and the urban heat island effect are combining to put more people at risk&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/8E9916E0-1B3A-4B42-ADEA4F91C672027A_source.png" FILESIZE="118651" TYPE="image/png" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Amanda Monta&ntilde;ez; Source: &ldquo;Global Urban Population Exposure to Extreme Heat,&rdquo; by Cascade Tuholske et al., in <em>Proceedings of the National Academy of Sciences USA</em>, Vol. 118. Published online October 4, 2021</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Andrea Thompson</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Public Health</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Discoveries from the Deep</TITLE>
+<LINK>https://www.scientificamerican.com/article/discoveries-from-the-deep/</LINK>
+<GUID ISPERMALINK="false" >227BAFB9-3B67-44C3-B9260E402E0239B6</GUID>
+<PUBDATE>Wed, 20 Jul 2022 13:15:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Advances in robotics, sensing and genomics are accelerating findings of sophisticated life throughout the ocean depths&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/5C9F3026-CF70-4E05-8206254C4F7A119C_source.jpg" FILESIZE="41507" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >TINY NAVIGATORS<br />
+Zooplankton fill the seas, but they don't just drift along with the currents, as once was thought. They react and move as water conditions change, driving the ocean's food web and much of its daily life.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Flip Nicklin/Minden Pictures</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Mark Fischetti</DC:CREATOR><CATEGORY>Features</CATEGORY><CATEGORY>Biology</CATEGORY><CATEGORY>Animals</CATEGORY><CATEGORY>Environment</CATEGORY><CATEGORY>Oceans</CATEGORY><CATEGORY>Technology</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Mystery, Discovery and Surprise in the Oceans</TITLE>
+<LINK>https://www.scientificamerican.com/article/mystery-discovery-and-surprise-in-the-oceans/</LINK>
+<GUID ISPERMALINK="false" >4ABDDC7D-02A8-43B8-B1CDBDF2468BCDFF</GUID>
+<PUBDATE>Wed, 20 Jul 2022 13:15:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Bizarre sea creatures, a new view of the ocean, the race to the moon, and more&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/271BE941-F8EF-4B11-82178D02CE414FE3_source.jpg" FILESIZE="930958" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT><em>Scientific American</em>, August 2022</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Laura Helmuth</DC:CREATOR><CATEGORY>From the Editor</CATEGORY><CATEGORY>Biology</CATEGORY><CATEGORY>Environment</CATEGORY><CATEGORY>Oceans</CATEGORY><CATEGORY>Space &amp; Physics</CATEGORY><CATEGORY>Technology</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Dive into a Vanishing Invisible Forest to See What Climate Has Changed</TITLE>
+<LINK>https://www.scientificamerican.com/video/dive-into-a-vanishing-invisible-forest-to-see-what-climate-has-changed/</LINK>
+<GUID ISPERMALINK="false" >C4A6EE1C-ADB6-410B-83A1402365C62B25</GUID>
+<PUBDATE>Wed, 20 Jul 2022 13:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Our kelp forests are largely unobserved, but now they are vanishing. To understand why, scientists dive underwater and look down from space. Their research reveals a complex system at risk of collapse.&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/298A1E08-626B-4E27-AF9DE227D647305D_source.jpg" FILESIZE="1861765" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+
+</MEDIA:CONTENT><DC:CREATOR>Dominic Smith, Andrew Robinson</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Oceans</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Police Who Tear Gas Abortion-Rights Protesters Could Induce Abortion</TITLE>
+<LINK>https://www.scientificamerican.com/article/police-who-tear-gas-abortion-rights-protesters-could-induce-abortion/</LINK>
+<GUID ISPERMALINK="false" >AC21B3CA-2865-4B78-9F79370D70488C66</GUID>
+<PUBDATE>Wed, 20 Jul 2022 12:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Tear gas is widely used by law enforcement, even though it may cause spontaneous abortion&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/FACF260C-1B94-42DC-ADBE9454DDCFC49F_source.jpg" FILESIZE="4068744" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >Capitol Police dressed in riot gear watch as activists react to the Supreme Court's ruling in the Dobbs v Jackson Women's Health Organization case in front of the U.S. Supreme Court on June 24, 2022 in Washington, D.C.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Nathan Howard/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Matthew R. Francis</DC:CREATOR><CATEGORY>Health</CATEGORY><CATEGORY>Reproduction</CATEGORY><CATEGORY>Policy</CATEGORY></ITEM>
+<ITEM>
+<TITLE>The Environmental Disasters Now Threatening Ukraine</TITLE>
+<LINK>https://www.scientificamerican.com/article/the-environmental-disasters-now-threatening-ukraine/</LINK>
+<GUID ISPERMALINK="false" >FDA1EFDE-0204-4A79-80D068A43E7FE115</GUID>
+<PUBDATE>Wed, 20 Jul 2022 10:45:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Ukraine&amp;rsquo;s former environment minister explains the Russian invasion&amp;rsquo;s dangerous impact on water and nuclear safety&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/F4E128A5-86AA-43D4-A137FF2CCAD2B16E_source.jpg" FILESIZE="6311091" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A woman collects rain water near her house since there has been no running water due to Russian raids and air strikes, on April 20, 2022 in Mykolaiv, Ukraine. Mykolaiv, a port city near where the Southern Bug river flows into the Black Sea, has been a target of attacks since Russia invaded Ukraine.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Anastasia Vlasova/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Renee Hickman</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Pollution</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Climate-Focused Bill Collapses as U.S. Is Pummeled by Major Climate Impacts</TITLE>
+<LINK>https://www.scientificamerican.com/article/climate-focused-bill-collapses-as-u-s-is-pummeled-by-major-climate-impacts/</LINK>
+<GUID ISPERMALINK="false" >1FA0F14F-5BAA-44AE-BD62319F8AC1CDD0</GUID>
+<PUBDATE>Tue, 19 Jul 2022 17:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Senator Joe Manchin has said he will not support climate provisions in the major spending bill before Congress just as the country faces heat waves, drought and floods exacerbated by rising temperatures&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/7D576B89-6405-4981-81DB5D3FC490D39F_source.jpg" FILESIZE="4415532" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A view of the Glen Canyon Dam at Lake Powell on March 27, 2022. The lake is at only about 25 percent capacity, the lowest water levels have dropped since the lake was created by damming the Colorado River in 1963.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Justin Sullivan/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Benjamin Storrow, E&amp;E News</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Politics</CATEGORY></ITEM>
+<ITEM>
+<TITLE>How Hot is Too Hot for the Human Body?</TITLE>
+<LINK>https://www.scientificamerican.com/article/how-hot-is-too-hot-for-the-human-body1/</LINK>
+<GUID ISPERMALINK="false" >E5CC978A-D5FC-492C-BAAE4AE24C5FFE6B</GUID>
+<PUBDATE>Tue, 19 Jul 2022 15:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;A study of healthy volunteers found that the combination of heat and humidity gets dangerous faster than many people realize&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/92D93FDF-115D-4AEA-8CDAC32F9F425EDE_source.jpg" FILESIZE="5583619" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A young man throws a bottle of water over himself to combat the second heat wave of the summer, on 12 July, 2022 in Madrid, Spain.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Ricardo Rubio/Europa Press via Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>W. Larry Kenney, Daniel Vecellio, Rachel Cottle, S. Tony Wolf, The Conversation US</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Weather</CATEGORY><CATEGORY>Health</CATEGORY></ITEM>
+<ITEM>
+<TITLE>What Keeps a Crowd from Becoming a Mob?</TITLE>
+<LINK>https://www.scientificamerican.com/article/what-keeps-a-crowd-from-becoming-a-mob/</LINK>
+<GUID ISPERMALINK="false" >F0691531-0542-40F6-820AB06D3FA52859</GUID>
+<PUBDATE>Tue, 19 Jul 2022 14:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Amid COVID, studies in Denmark suggest that crowds do not always engage in bad behavior&amp;mdash;and that mass-gatherings sometimes offer meaningful connection&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/0D612BB7-19DF-437F-91D7357C74F98E0A_source.jpg" FILESIZE="8769154" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Franz-Marc Frei/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>SÃ©amus A. Power, Thomas A. Morton</DC:CREATOR><CATEGORY>Mind &amp; Brain</CATEGORY><CATEGORY>Psychology</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Ocean Discoveries Are Revising Long-Held Truths about Life</TITLE>
+<LINK>https://www.scientificamerican.com/article/ocean-discoveries-are-revising-long-held-truths-about-life/</LINK>
+<GUID ISPERMALINK="false" >E35964AE-0FD0-49B3-A30509E96239ABD5</GUID>
+<PUBDATE>Tue, 19 Jul 2022 13:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;New findings show that the ocean is much more intertwined with our lives than we ever imagined&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/974AC57C-45E5-44C8-BF723090F2C25B29_source.jpg" FILESIZE="756779" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >The Orpheus from the Woods Hole Oceanographic Institution is designed to maneuver autonomously and in swarms of vehicles at the deepest depths and to land to collect samples on the fly.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Evan Kovacs/&copy; Woods Hole Oceanographic Institution</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Timothy Shank</DC:CREATOR><CATEGORY>Features</CATEGORY><CATEGORY>Oceans</CATEGORY><CATEGORY>Technology</CATEGORY></ITEM>
+<ITEM>
+<TITLE>It Goes by the Name &apos;Bedtime Procrastination&apos; and You Can Probably Guess What It Is</TITLE>
+<LINK>https://www.scientificamerican.com/article/it-goes-by-the-name-bedtime-procrastination-and-you-can-probably-guess-what-it-is/</LINK>
+<GUID ISPERMALINK="false" >CA4D5739-E632-41CA-A5B4DED80A0EC72B</GUID>
+<PUBDATE>Tue, 19 Jul 2022 10:45:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Putting off sleep can have unfortunate consequences&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/B0445F87-0E34-4E61-902F8EBF4B632F16_source.jpg" FILESIZE="7346428" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Lily Bloom/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Janosch Deeg</DC:CREATOR><CATEGORY>Mind &amp; Brain</CATEGORY><CATEGORY>Sleep</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Heat and Humidity Are Already Reaching the Limits of Human Tolerance</TITLE>
+<LINK>https://www.scientificamerican.com/article/heat-and-humidity-are-already-reaching-the-limits-of-human-tolerance/</LINK>
+<GUID ISPERMALINK="false" >34DC198A-C99C-4589-988342BFA08CFFD6</GUID>
+<PUBDATE>Mon, 18 Jul 2022 19:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Events with extreme temperatures and humidity are occurring twice as often now as they were 40 years ago&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/A8DFDB33-E98E-4826-807A93B8C2C329FE_source.jpg" FILESIZE="6167995" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >Man stands in the spray of a broken water pipe during a heat wave in Karachi, Pakistan, on June 29, 2015. The heat wave reached 45 degrees Celsius (113 degrees Fahrenheit).</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Asim Hafeez <em>Getty Images</em></MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Andrea Thompson</DC:CREATOR><CATEGORY>News</CATEGORY><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Health</CATEGORY><CATEGORY>Fitness</CATEGORY><CATEGORY>Public Health</CATEGORY></ITEM>
+<ITEM>
+<TITLE>With Record-Breaking Heat, Europe Glimpses Its Climate Future</TITLE>
+<LINK>https://www.scientificamerican.com/article/with-record-breaking-heat-europe-glimpses-its-climate-future/</LINK>
+<GUID ISPERMALINK="false" >A6F1E1A7-4051-4548-B4BCAFBB21636287</GUID>
+<PUBDATE>Mon, 18 Jul 2022 16:50:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Heat in France, Spain, Italy and the U.K. is exacerbating drought and wildfires and threatening human health&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/B92B137D-2F39-4961-AF59205337C09DA9_source.png" FILESIZE="5475032" TYPE="image/png" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >Residents react and try to fight the fire as they see the forest lands around their houses burning on July 13, 2022, in Albergaria a Velha, Portugal. Wildfires have swept across the central part of the country amid temperatures exceeding 40 degrees Celsius.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Octavio Passos/Getty Images)</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Chelsea Harvey, E&amp;E News</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Public Health</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Abortion Access Allowed Us to Have a Happy, Healthy Family</TITLE>
+<LINK>https://www.scientificamerican.com/article/abortion-access-allowed-us-to-have-a-happy-healthy-family/</LINK>
+<GUID ISPERMALINK="false" >FE3106D7-58E1-4856-B4A99A906BD5743B</GUID>
+<PUBDATE>Mon, 18 Jul 2022 12:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Canceling &lt;em&gt;Roe&lt;/em&gt; means that other parents with high-risk pregnancies will not have the options that we had&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/EAFBBA1F-8832-4B0E-85AB31A5B71B4C19_source.jpg" FILESIZE="1104416" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A happy and healthy Madeleine and Benjamin in 1994.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Gary Stix</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Gary Stix, Miriam Lacob Stix</DC:CREATOR><CATEGORY>Health</CATEGORY><CATEGORY>Health Care</CATEGORY></ITEM>
+<ITEM>
+<TITLE>People in Republican Counties Have Higher Death Rates Than Those in Democratic Counties</TITLE>
+<LINK>https://www.scientificamerican.com/article/people-in-republican-counties-have-higher-death-rates-than-those-in-democratic-counties/</LINK>
+<GUID ISPERMALINK="false" >468CB4F7-B7F8-4CAC-916B1043DEBCBFE3</GUID>
+<PUBDATE>Mon, 18 Jul 2022 10:45:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;A growing mortality gap between Republican and Democrat areas may largely stem from policy choices&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/916DEFC7-2511-44EC-9D17AA2C9D7FC7F4_source.png" FILESIZE="107261" TYPE="image/png" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Amanda Monta&ntilde;ez</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Lydia Denworth</DC:CREATOR><CATEGORY>Health</CATEGORY><CATEGORY>Public Health</CATEGORY><CATEGORY>Social Sciences</CATEGORY><CATEGORY>Politics</CATEGORY></ITEM>
+<ITEM>
+<TITLE>It&apos;s Getting Harder for Forests to Recover from Disasters</TITLE>
+<LINK>https://www.scientificamerican.com/article/its-getting-harder-for-forests-to-recover-from-disasters/</LINK>
+<GUID ISPERMALINK="false" >E47140E2-3C22-47DB-81243969C1C50D98</GUID>
+<PUBDATE>Fri, 15 Jul 2022 17:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;As the world warms, forests are becoming less resilient in the face of fires, droughts and other disruptive events&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/874F5357-9EEC-496B-AFC68A6ED21476EE_source.jpg" FILESIZE="10328436" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Edmund Lowe Photography/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Chelsea Harvey, E&amp;E News</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Conservation</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Meet the Giant Sequoia, the &apos;Super Tree&apos; Built to Withstand Fire</TITLE>
+<LINK>https://www.scientificamerican.com/article/meet-the-giant-sequoia-the-super-tree-built-to-withstand-fire/</LINK>
+<GUID ISPERMALINK="false" >8B6327F7-C87B-4D6C-B128E96C3DD9BA7E</GUID>
+<PUBDATE>Fri, 15 Jul 2022 14:55:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Mammoth redwood trees have evolved along with fire, but humans are disrupting that delicate balance&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/A909B03F-809B-4BA7-B4A1448D6C2D25FC_source.jpg" FILESIZE="7817348" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Jordan Siemens/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Andrea Thompson</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Conservation</CATEGORY></ITEM>
+<ITEM>
+<TITLE>Digital Literacy Doesn&apos;t Stop the Spread of Misinformation</TITLE>
+<LINK>https://www.scientificamerican.com/article/digital-literacy-doesnt-stop-the-spread-of-misinformation/</LINK>
+<GUID ISPERMALINK="false" >AE198F28-4475-48AF-8FCDFA3ED30D4802</GUID>
+<PUBDATE>Fri, 15 Jul 2022 14:35:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Just because you can spot falsehoods doesn&amp;rsquo;t mean you won&amp;rsquo;t share them&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/007A4B92-F396-4B1A-81DFDDC739022CE4_source.jpg" FILESIZE="9354804" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+<MEDIA:CREDIT>Morsa Images/Getty Images</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>David Rand, Nathaniel Sirlin</DC:CREATOR><CATEGORY>Mind &amp; Brain</CATEGORY><CATEGORY>Behavior</CATEGORY></ITEM>
+<ITEM>
+<TITLE>How Taking Pictures of &apos;Nothing&apos; Changed Astronomy</TITLE>
+<LINK>https://www.scientificamerican.com/article/how-taking-pictures-of-nothing-changed-astronomy1/</LINK>
+<GUID ISPERMALINK="false" >4A1D3189-177F-4D30-92AA9DF584DDE1FD</GUID>
+<PUBDATE>Fri, 15 Jul 2022 13:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;Deep-field images of &amp;ldquo;empty&amp;rdquo; regions of the sky from Webb and other space telescopes are revealing more of the universe than we ever thought possible&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/861A9FEA-1404-45E2-89D41BD790262E8B_source.jpg" FILESIZE="7460628" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >A comparison between the Hubble Space Telescope&rsquo;s first &ldquo;deep field&rdquo; image, taken in 1995 (<em>left</em>), and the first similar image from the James Webb Space Telescope (<em>right</em>). Both images cover approximately the same amount of sky, but reveal significantly different populations of galaxies. Webb&rsquo;s, for example, probes significantly further back in cosmic time to reveal more ancient galaxies from the early universe.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>R. Williams (STScI), the Hubble Deep Field Team and NASA/ESA  (<em>left</em>);  NASA, ESA, CSA and STScI  (<em>right</em>)</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Fabio Pacucci</DC:CREATOR><CATEGORY>Space &amp; Physics</CATEGORY><CATEGORY>Astronomy</CATEGORY></ITEM>
+<ITEM>
+<TITLE>5 Things to Know about Monkeypox</TITLE>
+<LINK>https://www.scientificamerican.com/video/5-things-to-know-about-monkeypox/</LINK>
+<GUID ISPERMALINK="false" >463C1BF1-DA80-4A16-9868284810E65D60</GUID>
+<PUBDATE>Fri, 15 Jul 2022 11:30:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;From symptoms, vaccines and treatment, here are some fast facts about Monkeypox&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/AFA39814-C702-4E0F-8F154636451D2AE9_source.png" FILESIZE="575153" TYPE="image/png" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+
+
+</MEDIA:CONTENT><DC:CREATOR>Tanya Lewis, Tulika Bose, Michael Tabb</DC:CREATOR><CATEGORY>Health</CATEGORY><CATEGORY>Vaccines</CATEGORY></ITEM>
+<ITEM>
+<TITLE>The Clean Air Act Is a Model for Protections We Need More Than Ever</TITLE>
+<LINK>https://www.scientificamerican.com/article/the-clean-air-act-is-a-model-for-protections-we-need-more-than-ever/</LINK>
+<GUID ISPERMALINK="false" >D10B2BC1-823C-41D0-A3AACF3595ECB90E</GUID>
+<PUBDATE>Fri, 15 Jul 2022 11:00:00 GMT</PUBDATE>
+<DESCRIPTION>&lt;p&gt;The Clean Air Act, now undermined by the Supreme Court, exemplifies how the U.S. government once tackled &amp;ldquo;major questions&amp;rdquo;&amp;mdash;and could again&lt;/p&gt;</DESCRIPTION>
+<MEDIA:CONTENT URL="https://static.scientificamerican.com/sciam/cache/file/B7FDC41E-BB6E-47B5-B698704695DDABF1_source.jpg" FILESIZE="3824403" TYPE="image/jpeg" EXPRESSION="full" WIDTH="790" HEIGHT="496" >
+<MEDIA:DESCRIPTION TYPE="html" >Coal-fired power plant at dawn, Arizona.</MEDIA:DESCRIPTION>
+<MEDIA:CREDIT>Don Johnston/agefotostock/Alamy Stock Photo</MEDIA:CREDIT>
+</MEDIA:CONTENT><DC:CREATOR>Beth Gardiner</DC:CREATOR><CATEGORY>Environment</CATEGORY><CATEGORY>Climate Change</CATEGORY><CATEGORY>Social Sciences</CATEGORY><CATEGORY>Policy</CATEGORY><CATEGORY>Politics</CATEGORY></ITEM>
+</CHANNEL>
+</RSS>
